@@ -1,0 +1,28 @@
+header{width:100% ;
+    background-color: #DA6A00;
+
+}
+body{overflow: hidden;
+    margin-top: 0px;margin-left: 0px;margin-right: 0px;
+}
+footer{
+    background-color: #14471E;
+    padding:10px;
+}
+p{
+    color: white;
+   
+}
+nav{display: flex;
+padding-top: 30px;
+font-weight: 900;
+justify-content: space-around;}
+a{font-size: 25px;
+text-decoration: none;
+color: black;}
+
+footer p{font-weight: 900;
+font-size: 20px;
+}
+img1{width: 100%;
+height: 100%;}
