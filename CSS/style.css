@@ -2,7 +2,7 @@ header{width:100% ;
     background-color: #DA6A00;
 
 }
-body{overflow: hidden;
+body{width: 1280px;
     margin-top: 0px;margin-left: 0px;margin-right: 0px;
 }
 footer{
